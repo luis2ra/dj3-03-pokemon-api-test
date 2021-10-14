@@ -42,6 +42,9 @@ To obtain the data saved locally of the pokemons or of a single pokemon (passing
 
 ```sh
 http://127.0.0.1:8000/api/pokemons/
+```
+or
 
+```sh
 http://127.0.0.1:8000/api/pokemon/<name>
 ```
