@@ -42,7 +42,7 @@ class Command(BaseCommand):
                 "id": response["id"],
                 "name": response["name"],
                 "height": response["height"],
-                "weight": response["height"],
+                "weight": response["weight"],
                 "stats": stats
             }
         except Exception as e:
